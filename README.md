@@ -1,4 +1,4 @@
-#Projects:
--William
--Santo
--Fulton
+# Projects:
+- William
+- Santo
+- Fulton
